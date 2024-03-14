@@ -1,5 +1,6 @@
 {
   "name": "portfolio",
+  "homepage": "https://Deepak707.github.io/Deepak-Portfolio",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -11,6 +12,7 @@
     "bootstrap": "^4.5.3",
     "chokidar": "^3.0.0",
     "core-js": "^3.20.0",
+    "gh-pages": "^6.1.1",
     "joi": "^17.5.0",
     "jquery": "^3.6.0",
     "jquery-particles": "^1.37.5",
@@ -37,6 +39,8 @@
     "worker-loader": "^3.0.7"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
