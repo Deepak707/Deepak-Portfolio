@@ -9,7 +9,7 @@ import {
     DiPython,
     DiDjango,DiMysql
 } from "react-icons/di";
-import {SiJupyter} from "react-icons/si";
+//import {SiJupyter} from "react-icons/si";
 
 function Techstack() {
   return (
