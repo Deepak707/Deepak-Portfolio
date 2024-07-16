@@ -2,7 +2,7 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
   SiLinux,
-  SiGithub
+  //SiGithub
 } from "react-icons/si";
 import {
     DiDatabase,
