@@ -28,7 +28,7 @@ function Projects() {
               isBlog={false}
               title="IndiFashion"
               description="Facilitated the online purchase of new Gen-Z fashion products through a user-friendly interface and seamless shopping experience"
-              link="https://github.com/Deepak707/Indifashion"
+              link="https://indifashion.netlify.app/"
             />
           </Col>
 
@@ -66,7 +66,7 @@ function Projects() {
             <ProjectCard
               //imgPath={}
               isBlog={false}
-              title="Affiliate website"
+              title="Image Compressor"
               description="Curated a diverse range of products, emphasizing competitive pricing andsuperior quality, to cater to diverse consumer needs"
               //link="https://github.com/beebus/"
             />
