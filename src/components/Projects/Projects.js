@@ -1,16 +1,13 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
-// import BlogCard from "./BlogsCards";
 import Particle from "../Particle";
 
 import indiFashion from "../../Assets/indiFashion.png";
 import docsumm from "../../Assets/docsumm.png";
 import portfolio from "../../Assets/portfolio.png";
 import inthevisuals from "../../Assets/inthevisuals.png";
-// import suicide from "../../Assets/Projects/suicide.png";
-// import algo from "../../Assets/Projects/algo.png";
-// import plant from "../../Assets/Projects/plant.jpeg";
+
 
 function Projects() {
   return (
