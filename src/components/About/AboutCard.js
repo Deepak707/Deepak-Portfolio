@@ -61,7 +61,7 @@ function AboutCard() {
                 devices. Whether you need an e-commerce platform, a blog, or a portfolio, I'll deliver a professional
                 and engaging website that meets your needs and enhances your brand's digital footprint.
               </li>
-              <br/>
+
             </ul>
 
             <br/>
