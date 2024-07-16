@@ -17,28 +17,51 @@ function AboutCard() {
             <br/>
 
             These Things I DO:
+            <br/>
             <ul>
+              <br/>
               <li className="about-activity">
-                <ImPointRight />I can create engaging product photos and videos using state of the art AI tools like image generation,
+                <ImPointRight/> I can create engaging product photos and videos using state of the art AI tools like
+                image generation,
                 text to speech, image extraction and other editing tools.
               </li>
+              <br/>
               <li className="about-activity">
-                <ImPointRight /> I can create hyper realistic photos of anyone in any setup and any outfit in bulk using the roop AI face model.
+                <ImPointRight/> I can create hyper realistic photos of anyone in any setup and any outfit in bulk using
+                the roop AI face model.
               </li>
+              <br/>
               <li className="about-activity">
-                <ImPointRight />I will manage your business’s social presence by generating and posting content on numerous platforms (like facebook, instagram, whatsapp channels, youtube reels, google web stories, twitter, etc). I will use the best hashtags and post everyday at the perfect time to ensure maximum reach.
+                <ImPointRight/> I will manage your business’s social presence by generating and posting content on
+                numerous platforms (like facebook, instagram, whatsapp channels, youtube reels, google web stories,
+                twitter, etc). I will use the best hashtags and post everyday at the perfect time to ensure maximum
+                reach.
               </li>
+              <br/>
               <li className="about-activity">
-                <ImPointRight />I can create and manage your presence on social media and video streaming websites (like youtube, vimeo, dailymotion, etc) by creating beautiful and engaging content (both short and long form content) and posting it regularly with the most relevant hashtags, thumbnails and at the perfect time everyday to give you the highest viewership.
+                <ImPointRight/> I can create and manage your presence on social media and video streaming websites (like
+                youtube, vimeo, dailymotion, etc) by creating beautiful and engaging content (both short and long form
+                content) and posting it regularly with the most relevant hashtags, thumbnails and at the perfect time
+                everyday to give you the highest viewership.
               </li>
+              <br/>
               <li className="about-activity">
-                <ImPointRight />I can create automated messaging agent for whatsapp and instagram</li>
-              <li className="about-activity">
-                <ImPointRight />I can create and manage your presence on dating apps by creating your attractive pictures in different outfits and locations and swiping on your behalf to give you the most matches.
+                <ImPointRight/> I can create automated messaging agent for whatsapp and instagram
               </li>
+              <br/>
               <li className="about-activity">
-                <ImPointRight />I can design and develop your website to create a stunning online presence. From crafting visually appealing layouts to integrating interactive features, I ensure your site is both attractive and user-friendly. I'll optimize it for performance and SEO, and ensure it works seamlessly across all devices. Whether you need an e-commerce platform, a blog, or a portfolio, I'll deliver a professional and engaging website that meets your needs and enhances your brand's digital footprint.
+                <ImPointRight/> I can create and manage your presence on dating apps by creating your attractive pictures
+                in different outfits and locations and swiping on your behalf to give you the most matches.
               </li>
+              <br/>
+              <li className="about-activity">
+                <ImPointRight/> I can design and develop your website to create a stunning online presence. From crafting
+                visually appealing layouts to integrating interactive features, I ensure your site is both attractive
+                and user-friendly. I'll optimize it for performance and SEO, and ensure it works seamlessly across all
+                devices. Whether you need an e-commerce platform, a blog, or a portfolio, I'll deliver a professional
+                and engaging website that meets your needs and enhances your brand's digital footprint.
+              </li>
+              <br/>
             </ul>
 
             <br/>
