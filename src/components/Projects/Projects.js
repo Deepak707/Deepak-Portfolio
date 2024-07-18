@@ -4,9 +4,11 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
 import indiFashion from "../../Assets/indiFashion.png";
-import docsumm from "../../Assets/docsumm.png";
+import Bisnos from "../../Assets/bisnos ph.png";
 import portfolio from "../../Assets/portfolio.png";
-import inthevisuals from "../../Assets/inthevisuals.png";
+import YourAIPhotos from "../../Assets/yourai.png";
+import btcpl from "../../Assets/btcplph.png";
+
 
 
 function Projects() {
@@ -34,11 +36,11 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={docsumm}
+              imgPath={Bisnos}
               isBlog={false}
-              title="DocSummarizer"
-              description="Empowered users to summarize document content efficiently through thewebsite's functionality"
-              link="https://github.com/Deepak707/Document-Summarizer"
+              title="Bisnos"
+              description="Digital Services For Business, services that help you grow your business ."
+              link="https://bisnos.com/"
             />
           </Col>
 
@@ -54,21 +56,21 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={inthevisuals}
+              imgPath={YourAIPhotos}
               isBlog={false}
-              title="Music Band Portfolio"
-              description="It's a portfolio website for a music band showcasing its events, music, and the journey of shows and events"
-              //link="https://github.com/"
+              title="Your Ai Photos"
+              description="To get your own AI created photos with your face and any outfit or background."
+              link="https://youraiphotos.com/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              //imgPath={}
+              imgPath={btcpl}
               isBlog={false}
-              title="Image Compressor"
+              title="Btcpl"
               description="Curated a diverse range of products, emphasizing competitive pricing andsuperior quality, to cater to diverse consumer needs"
-              //link="https://github.com/beebus/"
+              link="https://btcpl.online/"
             />
           </Col>
         </Row>

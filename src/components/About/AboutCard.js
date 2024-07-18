@@ -50,11 +50,6 @@ function AboutCard() {
               </li>
               <br/>
               <li className="about-activity">
-                <ImPointRight/> I can create and manage your presence on dating apps by creating your attractive pictures
-                in different outfits and locations and swiping on your behalf to give you the most matches.
-              </li>
-              <br/>
-              <li className="about-activity">
                 <ImPointRight/> I can design and develop your website to create a stunning online presence. From crafting
                 visually appealing layouts to integrating interactive features, I ensure your site is both attractive
                 and user-friendly. I'll optimize it for performance and SEO, and ensure it works seamlessly across all
