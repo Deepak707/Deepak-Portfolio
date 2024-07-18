@@ -10,13 +10,13 @@ function AboutCard() {
           <p style={{textAlign: "justify"}}>
             Hi, I'm <span className="purple">Deepak Kumar </span>
             from <span className="purple"> Bihar, India.</span>
-            <br/>I'm a 4th-year student, pursuing a <a href="https://www.cuchd.in/engineering/">Bachelors degree in CSE
-            at Chandigarh University</a>.
+            <br/>I'm a Full Time Freelancer Pass out in Bachelors degree in CSE
+            at Chandigarh University.
             <br/>
             <br/>
             <br/>
 
-            These Things I DO:
+            Services I Offers:
             <br/>
             <ul>
               <br/>
